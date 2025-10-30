@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+statsmodels
+scipy
+requests
+python-dateutil
